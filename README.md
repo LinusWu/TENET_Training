@@ -2,7 +2,7 @@
 > [arXiv Paper](https://arxiv.org/abs/2103.02152)
 
 ## Code is coming soon 😬
-We are working to realse the code and the model parameters, making them easy-to-use.
+We are working to release the code and the model parameters, making them easy-to-use.
 
 
 ## Citation
