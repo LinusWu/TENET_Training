@@ -49,7 +49,6 @@ The trained model weights are available in current directory.
 
 We are working to update the code (DDP training on ImageNet, adversarial training, etc.) and model parameters, making them easy-to-use.
 
-
 ## Citation
 Please cite our work if it's useful for your research.
 ```
