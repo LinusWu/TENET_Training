@@ -52,10 +52,11 @@ We are working to update the code (DDP training on ImageNet, adversarial trainin
 ## Citation
 Please cite our work if it's useful for your research.
 ```
-@article{liu2021group,
+@inproceedings{liu2021group,
   title={Group-wise Inhibition based Feature Regularization for Robust Classification},
   author={Liu, Haozhe and Wu, Haoqian and Xie, Weicheng and Liu, Feng and Shen, Linlin},
-  journal={arXiv preprint arXiv:2103.02152},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={478--486},
   year={2021}
 }
 ```
